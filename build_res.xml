@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- Le2LeJosEv3-ColorSorter Resources ANT Build file -->
+<!-- Le2LeJosEv3-Puppy Resources ANT Build file -->
 <project name="Le2LeJosEv3-Puppy-resources" default="all">
 
 	<!-- packaging -->
